@@ -15,7 +15,7 @@
 - 🔧 Skilled in **CI/CD pipelines**, **Infrastructure as Code (Terraform, Bicep, ARM)**, and **containerization**
 - 📦 Deployed production workloads using **Docker**, **Podman (rootless)**, and **Kubernetes**
 - ⚙️ Automation enthusiast — Bash scripting, Ansible, and GitOps workflows
-- 🎓 Pursuing **MCA** | B.Sc. Graduate | **AWS Certified Solutions Architect – Associate (2025)**
+- 🎓 **AWS Certified Solutions Architect – Associate (2025)**
 - 🔍 Currently at **Hewlett Packard Enterprise (HPE)** as a System Administrator – L2
 
 ---
