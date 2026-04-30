@@ -1,38 +1,38 @@
-<h1 align="center">Hi, I'm Ajay Chaturvedi 👋</h1>
+<h1 align="center">Hi, I'm Ajay Chaturvedi </h1>
 
 <p align="center">
   <b>Linux System Administrator | DevOps Learner</b><br/>
   RHEL • AWS • Docker • Kubernetes • CI/CD • Terraform • Ansible<br/>
-  📍 Gandhinagar, Gujarat, India &nbsp;|&nbsp; Open to Relocation / Remote
+   Gandhinagar, Gujarat, India &nbsp;|&nbsp; Open to Relocation / Remote
 </p>
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🖥️ ~5 years of hands-on experience in **Linux System Administration** (RHEL 7/8/9)
-- ☁️ Experienced in **AWS** (EC2, VPC, IAM, S3, RDS, CloudWatch) and **Azure** (VMs & Networking)
-- 🔧 Skilled in **CI/CD pipelines**, **Infrastructure as Code (Terraform, Bicep, ARM)**, and **containerization**
-- 📦 Deployed production workloads using **Docker**, **Podman (rootless)**, and **Kubernetes**
-- ⚙️ Automation enthusiast — Bash scripting, Ansible, and GitOps workflows
-- 🎓 **AWS Certified Solutions Architect – Associate (2025)**
-- 🔍 Currently at **Hewlett Packard Enterprise (HPE)** as a System Administrator – L2
+-  ~5 years of hands-on experience in **Linux System Administration** (RHEL 7/8/9)
+-  Experienced in **AWS** (EC2, VPC, IAM, S3, RDS, CloudWatch) and **Azure** (VMs & Networking)
+-  Skilled in **CI/CD pipelines**, **Infrastructure as Code (Terraform, Bicep, ARM)**, and **containerization**
+-  Deployed production workloads using **Docker**, **Podman (rootless)**, and **Kubernetes**
+-  Automation enthusiast — Bash scripting, Ansible, and GitOps workflows
+-  **AWS Certified Solutions Architect – Associate (2025)**
+-  Currently at **Hewlett Packard Enterprise (HPE)** as a System Administrator – L2
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🖥️ Operating Systems
+###  Operating Systems
 ![RHEL](https://img.shields.io/badge/RHEL_7%2F8%2F9-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### ☁️ Cloud
+###  Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### 🔧 DevOps & IaC
+###  DevOps & IaC
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
@@ -42,34 +42,34 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 📊 Monitoring
+###  Monitoring
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-F3812E?style=flat-square)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square)
 
-### 🗄️ Databases
+###  Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-### 🌐 Networking & Security
+###  Networking & Security
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-DNS-DHCP-VPN-informational?style=flat-square)
 ![IPTables](https://img.shields.io/badge/IPTables-Firewall-orange?style=flat-square)
 ![SSH Hardening](https://img.shields.io/badge/SSH_Hardening-SELinux-red?style=flat-square)
 
 ---
 
-## 🏆 Certification
+##  Certification
 
-- 🎓 **AWS Certified Solutions Architect – Associate** (November 2025)  
+-  **AWS Certified Solutions Architect – Associate** (November 2025)  
   [View Certificate](https://www.coursera.org/account/accomplishments/specialization/XEH85JGXN48R)
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### 🔹 System Administrator – L2 | Hewlett Packard Enterprise (HPE)
+###  System Administrator – L2 | Hewlett Packard Enterprise (HPE)
 *via Aforeserve.com Ltd. | Aug 2024 – Present*
 - Managed RHEL 7/8/9 production Linux servers — patching, hardening, and monitoring
 - Built and maintained **CI/CD pipelines** using Jenkins and Git
@@ -78,7 +78,7 @@
 - Worked with **Terraform** and **Bicep** for Infrastructure as Code
 - Participated in **ITIL-aligned** incident and change management workflows
 
-### 🔹 Linux Administrator – L1 | Fashion Alley Pvt. Ltd.
+###  Linux Administrator – L1 | Fashion Alley Pvt. Ltd.
 *Jan 2021 – Aug 2024*
 - Installed, configured, and troubleshot Linux systems (RHEL, Ubuntu)
 - Configured **DNS, DHCP, Apache, NFS, Samba, SSH**, and firewall rules
@@ -89,7 +89,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | # | Project | Tech Stack | Highlight |
 |---|---------|-----------|-----------|
@@ -110,7 +110,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ajay-Chaturvedi1&show_icons=true&theme=default&hide_border=true" alt="Ajay's GitHub Stats" />
@@ -120,11 +120,11 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 📧 Email: [ajay9461368643@gmail.com](mailto:ajay9461368643@gmail.com)
-- 💼 GitHub: [github.com/Ajay-Chaturvedi1](https://github.com/Ajay-Chaturvedi1)
-- 📍 Location: Gandhinagar, Gujarat, India
+-  Email: [ajay9461368643@gmail.com](mailto:ajay9461368643@gmail.com)
+-  GitHub: [github.com/Ajay-Chaturvedi1](https://github.com/Ajay-Chaturvedi1)
+-  Location: Gandhinagar, Gujarat, India
 
 ---
 
