@@ -3,7 +3,7 @@
 <p align="center">
   <b>Linux System Administrator | DevOps Learner</b><br/>
   RHEL • AWS • Docker • Kubernetes • CI/CD • Terraform • Ansible<br/>
-   Gandhinagar, Gujarat, India &nbsp;|&nbsp; Open to Relocation / Remote
+   Noida, U.P, India &nbsp;|&nbsp; Open to Relocation / Remote
 </p>
 
 ---
@@ -68,18 +68,12 @@
 ---
 
 ##  Experience
-
-###  System Administrator – L2 | Hewlett Packard Enterprise (HPE)
-*via Aforeserve.com Ltd. | Aug 2024 – Present*
 - Managed RHEL 7/8/9 production Linux servers — patching, hardening, and monitoring
 - Built and maintained **CI/CD pipelines** using Jenkins and Git
 - Supported **Docker** and **Kubernetes** containerization in Dev/Test environments
 - Monitored server health using **Grafana dashboards**
 - Worked with **Terraform** and **Bicep** for Infrastructure as Code
 - Participated in **ITIL-aligned** incident and change management workflows
-
-###  Linux Administrator – L1 | Fashion Alley Pvt. Ltd.
-*Jan 2021 – Aug 2024*
 - Installed, configured, and troubleshot Linux systems (RHEL, Ubuntu)
 - Configured **DNS, DHCP, Apache, NFS, Samba, SSH**, and firewall rules
 - Wrote **Bash scripts** to automate backups, monitoring, and user management
@@ -124,7 +118,7 @@
 
 -  Email: [ajay9461368643@gmail.com](mailto:ajay9461368643@gmail.com)
 -  GitHub: [github.com/Ajay-Chaturvedi1](https://github.com/Ajay-Chaturvedi1)
--  Location: Gandhinagar, Gujarat, India
+-  Location: Noida, U.P, India
 
 ---
 
