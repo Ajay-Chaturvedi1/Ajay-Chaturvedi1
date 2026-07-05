@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ajay Chaturvedi </h1>
 
 <p align="center">
-  <b>Linux System Administrator | DevOps Learner</b><br/>
+  <b>Senior Linux Administrator | DevOps Learner</b><br/>
   RHEL • AWS • Docker • Kubernetes • CI/CD • Terraform • Ansible<br/>
    Noida, U.P, India &nbsp;|&nbsp; Open to Relocation / Remote
 </p>
