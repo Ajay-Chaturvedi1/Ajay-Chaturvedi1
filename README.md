@@ -16,7 +16,7 @@
 -  Deployed production workloads using **Docker**, **Podman (rootless)**, and **Kubernetes**
 -  Automation enthusiast — Bash scripting, Ansible, and GitOps workflows
 -  **AWS Certified Solutions Architect – Associate (2025)**
--  Currently at **Hewlett Packard Enterprise (HPE)** as a System Administrator – L2
+-  Currently at **Tata Consultancy Service** as a Senior Linux Administrator – L3
 
 ---
 
@@ -64,6 +64,10 @@
 
 -  **AWS Certified Solutions Architect – Associate** (November 2025)  
   [View Certificate](https://www.coursera.org/account/accomplishments/specialization/XEH85JGXN48R)
+- **Ansible Devops Automation Traininig** (June 2026)
+  [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a98fa661-be3d-4bb1-a244-af534f54a1b7.pdf)
+- **Generative Al** (June 2026)
+  [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-4547c50d-ed4f-4b0b-99b9-37c2ccc5df0c.pdf)
 
 ---
 
