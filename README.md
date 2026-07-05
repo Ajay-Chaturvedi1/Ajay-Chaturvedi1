@@ -16,7 +16,7 @@
 -  Deployed production workloads using **Docker**, **Podman (rootless)**, and **Kubernetes**
 -  Automation enthusiast — Bash scripting, Ansible, and GitOps workflows
 -  **AWS Certified Solutions Architect – Associate (2025)**
--  Currently at **Tata Consultancy Service** as a Senior Linux Administrator – L3
+-  Currently at **Tata Consultancy Service(TCS)** as a Senior Linux Administrator – L3
 
 ---
 
