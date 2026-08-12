@@ -120,7 +120,7 @@
 
 ## Connect with Me
 
--  Email: [ajay9461368643@gmail.com](mailto:ajay9461368643@gmail.com)
+- Linkdin: [Click here](https://www.linkedin.com/in/ajay-chaturvedi1/)
 -  GitHub: [github.com/Ajay-Chaturvedi1](https://github.com/Ajay-Chaturvedi1)
 -  Location: Noida, U.P, India
 
